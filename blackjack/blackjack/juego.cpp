@@ -1,7 +1,8 @@
 // juego.cpp
-// Definición de la clase Juego
+// DefiniciÃ³n de la clase Juego
 
 #include "juego.h"
+#include <iostream>
 
 Juego::Juego() : listaJugadores(nullptr), baraja(nullptr) { }
 
